@@ -4,7 +4,6 @@
   </h1>
   <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/sapphire611">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sapphire611&theme=buefy&show_icons=true" srcset="/blog/img/loading.gif" lazyload/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapphire611&theme=buefy&layout=compact" srcset="/blog/img/loading.gif" lazyload/>
     </a>
 </div>
 
